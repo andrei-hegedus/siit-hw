@@ -1,1 +1,1 @@
-# siit-hw
+# Andrei Hegedus homeworks at SIIT Java
